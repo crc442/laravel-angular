@@ -1,7 +1,8 @@
 {
   "name": "generator-laravel-angular",
   "version": "0.0.0",
-  "description": "Yeoman generator",
+  "description": "Yeoman generator to generate boilerplate code for app based on
+  laravel, angular, gulp and bootstrap",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "crc442/generator-laravel-angular",
@@ -20,7 +21,11 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "laravel",
+    "angular",
+    "gulp",
+    "bootstrap"
   ],
   "dependencies": {
     "yeoman-generator": "^0.18.0",
